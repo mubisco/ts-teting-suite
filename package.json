@@ -1,0 +1,27 @@
+{
+  "name": "node-scaffolding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.4",
+    "@babel/preset-typescript": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  },
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "superagent": "^1.2.0",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
